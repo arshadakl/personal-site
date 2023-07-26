@@ -1,0 +1,23 @@
+.contact-me-allSer{
+    margin: 10px auto auto auto ;
+    width: 200px  ;
+    height: 60px ;
+    background: transparent ;
+    border: 2px solid #1ab66d ;
+    border-radius: 1rem ;
+}
+.contact-me-allSer button{
+    width: 100% ;
+    height: 100%;
+    background: transparent;
+    border: none ;
+    color: #1ab66d;
+    font-size: 18px;
+    border-radius: 0.7rem;
+    transition: all 0.3s ease;
+}
+.contact-me-allSer button:hover{
+    background: #1ab66d;
+    border: 2px solid #1ab66d;
+    color: #111;
+}

@@ -1,0 +1,28 @@
+.about-area{
+    /* height: 80vh; */
+    background: #191919;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.about-txt-area{
+    width: 50%;
+}
+
+.about-area h1{
+    color: #1ab66d;
+}
+.about-area p{
+    /* width: 50rem; */
+    text-align: justify;
+    font-weight: 200;
+}
+/* bg-transparent */
+.center-about{
+    /* width: 100%; */
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+
+}

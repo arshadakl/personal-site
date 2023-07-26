@@ -1,0 +1,434 @@
+
+.allservices-area{
+    width: 100% ;
+    height: auto ;
+    background: #191919 ;
+    background-size: cover ;
+    padding: 30px 0 130px 0 ;
+    font-family: 'Poppins', sans-serif ;
+}
+.allservices-area h4{
+    color: #f5f4f4 ;
+    margin: 40px auto auto auto ;
+    font-size: 26px ;
+}
+.allservices-area h3{
+    color: #fff ;
+    margin: 10px auto auto auto ;
+    font-size: 45px ;
+}
+.services-boxs-area{
+    padding: 20px 140px 10px 140px ;
+    width: 100% ;
+    height: auto ;
+    margin: 50px 0 0 0 ;
+}
+.services-card{
+    width: 310px ;
+    height: auto ;
+    background: #232428 ;
+    border-radius: 1rem ;
+    margin: 10px auto 50px auto  ;
+    padding: 5px 10px 30px 20px ;
+    transition: all 0.6s ease ;
+}
+
+.service-card-content{
+    display: flex ;
+    flex-direction: column ;
+}
+.service-card-content i{
+    
+    font-size: 30px ;
+    margin: 45px 0px 0 20px ;
+}
+.service-card-content h2{
+    color: #fff;
+    font-size: 25px ;
+    margin: 20px 0 0 0 ;
+}
+.service-card-content p{
+    color: #8b8c8e ;
+    font-size: 14px ;
+    margin: 3px 0 0 0 ;
+}
+.contact-me-allSer{
+    margin: 10px auto auto auto ;
+    width: 200px  ;
+    height: 60px ;
+    background: transparent ;
+    border: 2px solid #1ab66d ;
+    border-radius: 1rem ;
+}
+.contact-me-allSer button{
+    width: 100% ;
+    height: 100%;
+    background: transparent;
+    border: none ;
+    color: #1ab66d;
+    font-size: 18px;
+    border-radius: 0.7rem;
+    transition: all 0.3s ease;
+}
+.contact-me-allSer button:hover{
+    background: #1ab66d;
+    border: 2px solid #1ab66d;
+    color: #111;
+}
+.card-span{
+    width: 100%;
+    height: 100%;
+    color: #1ab66d;
+}
+.services-card:hover{
+    background: #1b1b1f ;
+    transform: scale(1.02) ;
+    transition: all 0.4s ease ;
+}
+.card-span:hover{
+    color: #ffffff;
+}
+@media only  screen and (max-width:1550px){
+    .services-card{
+        width: 320px ;
+        margin: 10px 17px 50px auto  ;
+    }
+}
+@media only  screen and (max-width:1250px) {
+    .services-boxs-area{
+        padding: 20px 100px 10px 100px;
+        width: 100%;
+        height: auto;
+        margin: 50px 0 0 0;
+    }
+    .services-card{
+        width: 300px ;
+        height: auto ;
+        background: #222428 ;
+        border-radius: 1rem ;
+        margin: 10px auto 50px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 38px ;
+        margin: 45px 0px 0 20px ;
+    }
+    .service-card-content h2{
+        font-size: 33px;
+    }
+}
+@media only  screen and (max-width:1150px) {
+    .services-boxs-area{
+        padding: 20px 50px 10px 50px ;
+        width: 100% ;
+        height: auto ;
+        margin: 50px 0 0 0 ;
+    }
+    .services-card{
+        width: 300px ;
+        height: auto ;
+        background: #222428 ;
+        border-radius: 1rem ;
+        margin: 9px auto 50px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 38px;
+        margin: 45px 0px 0 20px;
+    }
+    .service-card-content h2{
+        font-size: 32px;
+    }
+    .service-card-content p{
+        font-size: 18px;
+    }
+}
+@media only  screen and (max-width:1040px) {
+    .services-boxs-area{
+        padding: 20px 15px 10px 15px ;
+        width: 100% ;
+        height: auto ;
+        margin: 40px 0 0 0 ;
+    }
+    .services-card{
+        width: 280px ;
+        margin: 9px auto 50px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 37px;
+        margin: 45px 0px 0 20px;
+    }
+    .service-card-content h2{
+        font-size: 30px;
+    }
+    .service-card-content p{
+        font-size: 18px;
+    }
+}
+@media only  screen and (max-width:920px) {
+    .services-boxs-area{
+        padding: 20px 5px 10px 5px;
+        margin: 40px 0 0 0;
+    }
+    .services-card{
+        width: 240px ;
+        margin: 9px auto 50px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 35px;
+        margin: 45px 0px 0 20px;
+    }
+    .service-card-content h2{
+        font-size: 26px;
+    }
+    .service-card-content p{
+        font-size: 17px;
+    }.contact-me-allSer{
+        margin: 10px auto auto auto;
+        width: 180px ;
+        height: 50px;
+    }
+    .contact-me-allSer button{
+        width: 100% ;
+        font-size: 16px;
+    }
+}
+@media only  screen and (max-width:800px) {
+    .services-boxs-area{
+        padding: 10px 15px 10px 15px;
+        margin: 40px 0 0 0;
+    }
+    .services-card{
+        width: 210px ;
+        margin: 9px auto 50px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 34px;
+        margin: 35px 0px 0 10px;
+    }
+    .service-card-content h2{
+        font-size: 24px;
+    }
+    .service-card-content p{
+        font-size: 15px;
+    }
+}
+@media only  screen and (max-width:700px) {
+    .services-boxs-area{
+        padding: 10px 20px 10px 20px;
+        margin: 40px 0 10px 0;
+    }
+    .services-card{
+        width: 280px ;
+        margin: 5px auto 50px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 38px;
+        margin: 35px 0px 0 10px;
+    }
+    .service-card-content h2{
+        font-size: 29px;
+    }
+    .service-card-content p{
+        font-size: 17px;
+    }
+    /* for head */
+    .allservices-area h4{
+        margin: 40px auto auto auto;
+        font-size: 25px;
+    }
+    .allservices-area h3{
+        margin: 10px auto 40px auto;
+        font-size: 43px;
+    }
+}
+@media only  screen and (max-width:630px) {
+    .services-boxs-area{
+        padding: 10px 15px 10px 15px;
+        margin: 40px 0 10px 0;
+    }
+    .services-card{
+        width: 230px ;
+        margin: 5px auto 40px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 34px;
+        margin: 35px 0px 0 10px;
+    }
+    .service-card-content h2{
+        font-size: 28px;
+    }
+    .service-card-content p{
+        font-size: 16px;
+        margin: 8px 0 0 0;
+    }
+    /* for head */
+    .allservices-area h4{
+        margin: 40px auto auto auto;
+        font-size: 24px;
+    }
+    .allservices-area h3{
+        margin: 10px auto 40px auto;
+        font-size: 42px;
+    }
+}
+@media only  screen and (max-width:510px) {
+    .services-boxs-area{
+        padding: 10px 15px 10px 15px ;
+        margin: 40px 0 10px 0 ;
+    }
+    .services-card{
+        width: 200px ;
+        margin: 5px auto 40px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 32px ;
+        margin: 35px 0px 0 10px ;
+    }
+    .service-card-content h2{
+        font-size: 25px ;
+    }
+    .service-card-content p{
+        font-size: 15px ;
+    }
+    /* for head */
+    .allservices-area h4{
+        margin: 28px auto auto auto ;
+        font-size: 23px ;
+    }
+    .allservices-area h3{
+        margin: 10px auto 40px auto ;
+        font-size: 40px ;
+    }
+}
+@media only  screen and (max-width:450px) {
+    .services-boxs-area{
+        padding: 10px 10px 10px 10px ;
+        margin: 40px 0 10px 0 ;
+    }
+    .services-card{
+        width: 170px ;
+        margin: 5px auto 40px auto  ;
+        padding: 5px 10px 30px 20px ;
+    }.service-card-content i{
+        font-size: 34px ;
+        margin: 35px 0px 0 10px ;
+    }
+    .service-card-content h2{
+        font-size: 25px ;
+    }
+    .service-card-content p{
+        font-size: 18px ;
+    }
+    /* for head */
+    .allservices-area h4{
+        margin: 28px auto auto auto ;
+        font-size: 21px ;
+    }
+    .allservices-area h3{
+        margin: 8px auto 37px auto ;
+        font-size: 37px ;
+    }.contact-me-allSer{
+        margin: 10px auto auto auto ;
+        width: 160px  ;
+        height: 45px ;
+    }
+    .contact-me-allSer button{
+        font-size: 15px ;
+    }
+}
+@media only  screen and (max-width:380px) {
+    .services-boxs-area{
+        padding: 10px 10px 10px 10px ;
+        margin: 40px 0 10px 0 ;
+    }
+    .services-card{
+        width: 160px ;
+        margin: 5px auto 40px auto  ;
+        padding: 5px 8px 30px 10px ;
+    }.service-card-content i{
+        font-size: 32px  ;
+        margin: 25px 0px 0 10px  ;
+    }
+    .service-card-content h2{
+        font-size: 24px  ;
+    }
+    .service-card-content p{
+        font-size: 16px  ;
+    }
+    /* for head */
+    .allservices-area h4{
+        margin: 25px auto auto auto;
+        font-size: 18px !;
+    }
+    .allservices-area h3{
+        margin: 8px auto 37px auto ;
+        font-size: 32px  ;
+    }
+}
+@media only  screen and (max-width:350px) {
+    .services-boxs-area{
+        padding: 10px 10px 10px 10px;
+        margin: 40px 0 10px 0;
+    }
+    .services-card{
+        width: 135px  ;
+        margin: 5px auto 20px auto  ;
+        padding: 5px 5px 30px 10px ;
+    }.service-card-content i{
+        font-size: 32px;
+        margin: 25px 0px 0 10px;
+    }
+    .service-card-content h2{
+        font-size: 17px;
+    }
+    .service-card-content p{
+        font-size: 12px;
+    }
+    /* for head */
+    .allservices-area h4{
+        margin: 25px auto auto auto;
+        font-size: 15px;
+    }
+    .allservices-area h3{
+        margin: 8px auto 30px auto;
+        font-size: 30px;
+    }
+}
+@media only  screen and (max-width:350px) {
+    .services-boxs-area{
+        padding: 10px 10px 10px 10px;
+        margin: 40px 0 10px 0;
+    }
+    .services-card{
+        width: 170px ;
+        margin: 5px auto 20px auto  ;
+        padding: 5px 5px 30px 10px ;
+    }
+}
+@media only  screen and (max-width:180px) {
+    .services-boxs-area{
+        padding: 10px 10px 10px 10px;
+        margin: 40px 0 10px 0;
+    }
+    .services-card{
+        width: 140px ;
+        margin: 5px auto 20px auto  ;
+        padding: 5px 5px 30px 10px ;
+    }.service-card-content i{
+        font-size: 28px;
+        margin: 25px 0px 0 10px;
+    }
+    .service-card-content h2{
+        font-size: 14px;
+    }
+    .service-card-content p{
+        font-size: 11px;
+    }/* for head */
+    .allservices-area h4{
+        margin: 25px auto auto auto;
+        font-size: 10px;
+    }
+    .allservices-area h3{
+        margin: 8px auto 30px auto;
+        font-size: 20px;
+    }
+}

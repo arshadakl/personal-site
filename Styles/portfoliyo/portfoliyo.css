@@ -1,0 +1,84 @@
+.portfolio-area{
+    background: #191919 ;
+    /* height: 500px; */
+}
+.portfolio-area h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+.portfolio-area h3{
+    /* padding: 90px auto auto auto ; */
+    /* font-size: 40px ; */
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.site-card{
+    cursor: pointer;
+}
+.site-card1{
+    background: url(../../img/cred.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.site-card2{
+    background: url(../../img/starbugs.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.site-card{
+    transition: all 0.9s ease-in-out;
+}
+.site-card:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
+.site-dis{
+    position: relative;
+    bottom: 0rem;
+    transition: all 0.2s ease;
+    opacity: 0;
+    color: #fff;
+}
+.site-card:hover .site-dis{
+    bottom: 2rem;
+    opacity: 1;
+    transition: all 0.9s ease-in-out;
+    /* color: #1ab66d; */
+    /* height: 10px; */
+    color: #1ab66d;
+}
+.port-txt{
+    color: #1ab66d;
+    transition: all 0.5s ease-in-out;
+}
+.port-txt:hover{
+    opacity: 0.9;
+    /* font-weight: 100; */
+    letter-spacing: 1.5px;
+}
+.design-card1{
+    background: url(../../img/chattichor.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.design-card2{
+    background: url(../../img/clubcafe.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.design-card3{
+    background: url(../../img/malabar-onamSale.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.design-card4{
+    background: url(../../img/palishaMObile.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* border: 5px solid #fff; */
+}
+.design:hover{
+    
+    /* border: 1px solid #aaedce ; */
+    
+}
