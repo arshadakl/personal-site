@@ -10,9 +10,9 @@ $("#chaterFm").submit((e)=>{
     let btt=document.querySelectorAll("#wapi")
     btt.forEach(bb=>bb.click())
     window.location.reload()
-    $.ajax({
+    // $.ajax({
         
-    })
+    // })
 })
 
 // $("#submit-form").submit((e) => {
@@ -32,7 +32,15 @@ $("#chaterFm").submit((e)=>{
 //     });
 // })
 
+
+
+
 $(document).ready(function () {
+    $.validator.addMethod("customEmail", function(value, element) {
+        var emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+        return this.optional(element) || emailRegex.test(value);
+    }, "Please enter a valid email address.");
+
     $("#submit-form").validate({
         rules: {
             name: {
@@ -41,7 +49,7 @@ $(document).ready(function () {
             },
             email: {
                 required: true,
-                email: true
+                customEmail: true  
             },
             subject: {
                 required: true,
@@ -58,8 +66,7 @@ $(document).ready(function () {
                 minlength: "Name must be at least 4 characters long."
             },
             email: {
-                required: "Please enter your email address.",
-                email: "Please enter a valid email address."
+                required: "Please enter your email address."
             },
             subject: {
                 required: "Please enter a subject.",
@@ -72,7 +79,7 @@ $(document).ready(function () {
         },
         errorPlacement: function(error, element) {
             $(error).appendTo("#username-error");
-          },
+        },
         submitHandler: function (form) {
             console.log("submitted");
             $.ajax({
@@ -91,3 +98,6 @@ $(document).ready(function () {
         }
     });
 });
+
+
+
