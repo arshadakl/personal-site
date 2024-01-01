@@ -15,13 +15,23 @@
 .site-card{
     cursor: pointer;
 }
+.site-card2{
+    background: url(../../img/ai.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.site-card4{
+    background: url(../../img/starbugs.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .site-card1{
     background: url(../../img/cred.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.site-card2{
-    background: url(../../img/starbugs.jpg);
+.site-card3{
+    background: url(../../img/specsy.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -77,8 +87,8 @@
     background-size: 100%;
     /* border: 5px solid #fff; */
 }
-.design:hover{
+/* .design:hover{ */
     
     /* border: 1px solid #aaedce ; */
     
-}
+/* } */

@@ -99,7 +99,16 @@
   width: 85%;
 }
 .bar .progress-line.react span{
+    width: 85%;
+}
+.bar .progress-line.Mongodb span{
+    width: 80%;
+}
+.bar .progress-line.MySQL span{
     width: 75%;
+}
+.bar .progress-line.Express span{
+    width: 80%;
 }
 .bar .progress-line.firebase span{
     width: 80%;
@@ -168,7 +177,16 @@
 }
 
   .progress-line.react span::after{
+    content: "85%";
+  }
+  .progress-line.Mongodb span::after{
+    content: "80%";
+  }
+  .progress-line.MySQL span::after{
     content: "75%";
+  }
+  .progress-line.Express span::after{
+    content: "80%";
   }
   .progress-line.firebase span::after{
     content: "80%";

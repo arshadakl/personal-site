@@ -35,29 +35,38 @@ $("#chaterFm").submit((e)=>{
 
 
 
+
 $(document).ready(function () {
     $.validator.addMethod("customEmail", function(value, element) {
         var emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
         return this.optional(element) || emailRegex.test(value);
     }, "Please enter a valid email address.");
 
+    $.validator.addMethod("nowhitespace", function(value, element) {
+        return this.optional(element) || /^\S+$/i.test(value);
+    }, "space is not allowed.");
+
     $("#submit-form").validate({
         rules: {
             name: {
                 required: true,
-                minlength: 4
+                minlength: 4,
+                nowhitespace: true 
             },
             email: {
                 required: true,
-                customEmail: true  
+                customEmail: true,
+                nowhitespace: true 
             },
             subject: {
                 required: true,
-                minlength: 3
+                minlength: 3,
+                nowhitespace: true 
             },
             message: {
                 required: true,
-                minlength: 5
+                minlength: 5,
+                nowhitespace: true 
             }
         },
         messages: {
@@ -98,6 +107,3 @@ $(document).ready(function () {
         }
     });
 });
-
-
-
