@@ -1,0 +1,454 @@
+[
+  {
+    "episode": {
+      "id": "m0021zj6",
+      "live": false,
+      "previewId": "p0jjcbkd",
+      "title": {
+        "default": "Celebrity Race Across the World",
+        "editorial": null,
+        "live": null
+      },
+      "subtitle": {
+        "default": "Series 2: Episode 1",
+        "editorial": "New episodes every Wednesday",
+        "live": null
+      },
+      "synopsis": {
+        "small": "Four new famous faces embark on an epic race from the Amazon rainforest to the Andes.",
+        "editorial": "From the Amazon to the Andes. Famous faces skip the VIP lane on an epic adventure",
+        "programmeSmall": "Famous faces must get from the Amazon to the Andes - by any means necessary.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jh0pgz.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgm3cf.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgm3l6.jpg",
+        "live": null,
+        "character": null,
+        "portrait": null
+      },
+      "tleo": {
+        "id": "m001qnk8"
+      },
+      "versions": [
+        {
+          "kind": "original",
+          "duration": {
+            "text": "59 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2027-09-18T21:00:00Z"
+          }
+        },
+        {
+          "kind": "audio-described",
+          "duration": {
+            "text": "59 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2027-09-18T21:00:00Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Lifestyle",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "m001qnk8",
+      "sliceId": "m0021zj7"
+    }
+  },
+  {
+    "episode": {
+      "id": "m0021k46",
+      "live": false,
+      "previewId": "p0jgtpxs",
+      "title": {
+        "default": "Kidnapped: The Chloe Ayling Story",
+        "editorial": null,
+        "live": null
+      },
+      "subtitle": {
+        "default": "Series 1: Episode 1",
+        "editorial": "All episodes available now",
+        "live": null
+      },
+      "synopsis": {
+        "small": "Twenty-year-old model Chloe Ayling goes to a shoot in Milan that takes a horrifying turn.",
+        "editorial": "The victim no one believed. A model's kidnapping becomes a media frenzy of doubt",
+        "programmeSmall": "The unbelievable story of Chloe Ayling's kidnap and the media frenzy that followed.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jhjdrq.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgqtt8.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgqtzm.jpg",
+        "live": null,
+        "character": null,
+        "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgqtwn.jpg"
+      },
+      "tleo": {
+        "id": "m0021k43"
+      },
+      "versions": [
+        {
+          "kind": "editorial",
+          "duration": {
+            "text": "29 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2026-08-14T05:00:00Z"
+          }
+        },
+        {
+          "kind": "audio-described",
+          "duration": {
+            "text": "29 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2026-08-14T05:00:00Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Drama",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "m0021k43",
+      "sliceId": "m0021k44"
+    }
+  },
+  {
+    "episode": {
+      "id": "m0021r6g",
+      "live": false,
+      "previewId": null,
+      "title": {
+        "default": "Pretty Little Liars: Summer School",
+        "editorial": null,
+        "live": null
+      },
+      "subtitle": {
+        "default": "Series 1: 1. Chapter Eleven: Spookyspaghetti.com",
+        "editorial": "All episodes available now",
+        "live": null
+      },
+      "synopsis": {
+        "small": "The girls are facing a fate worse than death, summer school.",
+        "editorial": "The next chapter of Original Sin. Summer school just got deadlier",
+        "programmeSmall": "The next chapter of Original Sin. Summer school isn’t the only test the liars are facing.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgrb1s.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jg4gf9.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jg3byx.jpg",
+        "live": null,
+        "character": null,
+        "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jg36xt.jpg"
+      },
+      "tleo": {
+        "id": "m0021r6b"
+      },
+      "versions": [
+        {
+          "kind": "original",
+          "duration": {
+            "text": "48 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2025-12-31T23:59:00Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Drama",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "m0021r6b",
+      "sliceId": "m0021r6f"
+    }
+  },
+  {
+    "episode": {
+      "id": "m0021nvz",
+      "live": false,
+      "previewId": "p0jgtw28",
+      "title": {
+        "default": "Freddie Flintoff's Field of Dreams",
+        "editorial": "Freddie Flintoff's Field of Dreams On Tour",
+        "live": null
+      },
+      "subtitle": {
+        "default": "On Tour: Episode 1",
+        "editorial": "New episodes every Tuesday",
+        "live": null
+      },
+      "synopsis": {
+        "small": "Freddie Flintoff returns, two years after transforming the lives of teenagers in Preston.",
+        "editorial": "The unlikely lads hit India – can they compete on a tour that so nearly didn’t happen?",
+        "programmeSmall": "The remarkable story of an unlikely cricket tour that almost didn’t happen.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jh5d6x.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jfnp88.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jg2fvk.jpg",
+        "live": null,
+        "character": null,
+        "portrait": null
+      },
+      "tleo": {
+        "id": "m00190pg"
+      },
+      "versions": [
+        {
+          "kind": "legal",
+          "duration": {
+            "text": "58 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2025-09-03T20:59:00Z"
+          }
+        },
+        {
+          "kind": "audio-described",
+          "duration": {
+            "text": "58 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2025-09-03T20:59:00Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Documentary",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "m00190pg",
+      "sliceId": "m0021nvy"
+    }
+  },
+  {
+    "episode": {
+      "id": "m0021zn3",
+      "live": false,
+      "previewId": null,
+      "title": {
+        "default": "Celebrity MasterChef",
+        "editorial": null,
+        "live": null
+      },
+      "subtitle": {
+        "default": "Series 19: Episode 1",
+        "editorial": "New episodes every week",
+        "live": null
+      },
+      "synopsis": {
+        "small": "With Craig Doyle, Charlotte Crosby, Edith Bowman, Ian ‘H’ Watkins and  Snoochie Shy.",
+        "editorial": "For those about to wok... 20 fearless celebs face the ultimate cooking challenge",
+        "programmeSmall": "A host of stars bid to become Celebrity MasterChef 2024.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jh0c2n.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgmkzs.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jgml76.jpg",
+        "live": null,
+        "character": null,
+        "portrait": null
+      },
+      "tleo": {
+        "id": "b007mtf0"
+      },
+      "versions": [
+        {
+          "kind": "original",
+          "duration": {
+            "text": "58 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2029-12-31T23:59:00Z"
+          }
+        },
+        {
+          "kind": "audio-described",
+          "duration": {
+            "text": "58 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2029-12-31T23:59:00Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Food",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "b007mtf0",
+      "sliceId": "m0021zj0"
+    }
+  },
+  {
+    "episode": {
+      "id": "m0021rl8",
+      "live": false,
+      "previewId": null,
+      "title": {
+        "default": "Vienna Blood",
+        "editorial": null,
+        "live": null
+      },
+      "subtitle": {
+        "default": "Series 4: 1. Mephisto Waltz, Part 1",
+        "editorial": "It could take you to a very dark place",
+        "live": null
+      },
+      "synopsis": {
+        "small": "Max and Oskar join forces on their last case together to unmask a powerful traitor. ",
+        "editorial": "It could take you to a very dark place. Max and Oskar embark on their final case together",
+        "programmeSmall": "Junior doctor Max Liebermann trails Inspector Oskar Rheinhardt on a murder case.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jfddl3.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jfd46p.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jfd4cd.jpg",
+        "live": null,
+        "character": null,
+        "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jfd4mn.jpg"
+      },
+      "tleo": {
+        "id": "m000bhqj"
+      },
+      "versions": [
+        {
+          "kind": "original",
+          "duration": {
+            "text": "90 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2028-08-03T22:59:00Z"
+          }
+        },
+        {
+          "kind": "audio-described",
+          "duration": {
+            "text": "90 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2028-08-03T22:59:00Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Crime Drama",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "m000bhqj",
+      "sliceId": "m0021rl6"
+    }
+  },
+  {
+    "episode": {
+      "id": "m0020rwv",
+      "live": false,
+      "previewId": null,
+      "title": {
+        "default": "Interview with the Vampire",
+        "editorial": null,
+        "live": null
+      },
+      "subtitle": {
+        "default": "Series 2: 1. What Can the Damned Really Say About the Damned",
+        "editorial": "All episodes available now",
+        "live": null
+      },
+      "synopsis": {
+        "small": "Claudia’s quest for other vampires leads her and Louis to war-torn Romania.",
+        "editorial": "Memory is the monster. Post-war Paris, Louis seeks more of his kind as truths are exposed",
+        "programmeSmall": "A vivid reinvention of Anne Rice’s gothic Vampire Chronicles series.",
+        "live": null
+      },
+      "image": {
+        "default": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jby0vy.jpg",
+        "promotional": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jby0dp.jpg",
+        "promotionalWithLogo": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jd330l.jpg",
+        "live": null,
+        "character": null,
+        "portrait": "https://ichef.bbci.co.uk/images/ic/{recipe}/p0jd39pc.jpg"
+      },
+      "tleo": {
+        "id": "p0gd295l"
+      },
+      "versions": [
+        {
+          "kind": "original",
+          "duration": {
+            "text": "48 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2027-07-31T22:59:59Z"
+          }
+        },
+        {
+          "kind": "audio-described",
+          "duration": {
+            "text": "48 mins"
+          },
+          "availability": {
+            "remaining": "Available for over a year",
+            "end": "2027-07-31T22:59:59Z"
+          }
+        }
+      ],
+      "labels": {
+        "category": "Drama",
+        "editorial": null,
+        "time": null
+      },
+      "promoted": false
+    },
+    "journey": {
+      "id": "p0gd295l",
+      "sliceId": "m0020rwt"
+    }
+  }
+]
